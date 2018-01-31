@@ -20,6 +20,7 @@ It is not a crowdsourced collection, but a personal list. Think of "Duncan award
 - [Development](#development)
   - [Game Development](#game-development)
 - [Editors](#editors)
+- [File Sharing, Sync & Backup](#file-sharing-sync-backup)
 - [Security & Privacy](#security)
 
 ## Internet
@@ -37,6 +38,10 @@ It is not a crowdsourced collection, but a personal list. Think of "Duncan award
 ## Editors
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Multi-platform customizable editor from Microsoft
+
+## File Sharing, Sync & Backup
+
+* [Syncthing](https://syncthing.net/) - Continuous File Synchronization
 
 ## Security & Privacy
 
