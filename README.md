@@ -35,6 +35,10 @@ It is not a crowdsourced collection, but a personal list. Think of "Duncan award
 
 * [Godot](https://godotengine.org/) - Game development engine and toolset
 
+### Utilities
+
+* [jq](https://stedolan.github.io/jq/) - lightweight and flexible command-line JSON processor
+
 ## Editors
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Multi-platform customizable editor from Microsoft
