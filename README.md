@@ -20,8 +20,8 @@ It is not a crowdsourced collection, but a personal list. Think of "Duncan award
 - [Development](#development)
   - [Game Development](#game-development)
 - [Editors](#editors)
-- [File Sharing, Sync & Backup](#file-sharing-sync-backup)
-- [Security & Privacy](#security)
+- [File Sharing, Sync & Backup](#file-sharing-sync--backup)
+- [Security & Privacy](#security--privacy)
 
 ## Internet
 
